@@ -1,0 +1,4 @@
+Incident ID,Date,Department,Shift,Type,Severity,Status
+INC001,2026-10-20,Mining,Day,Near miss,Medium,Open
+INC002,2026-10-21,Maintenance,Night,Equipment,Critical,Investigating
+INC003,2026-10-22,Processing,Day,Unsafe act,Low,Closed

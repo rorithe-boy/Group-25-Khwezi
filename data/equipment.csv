@@ -1,0 +1,4 @@
+Equipment ID,Type,Temperature,Vibration,Operating Hours,Downtime,Maintenance Due,Maintenance Status
+EQ001,Haul truck,75,3,120,10,No,Operational
+EQ002,Excavator,90,6,80,40,Yes,Under maintenance
+EQ003,Crusher,105,9,60,50,Yes,Overdue
